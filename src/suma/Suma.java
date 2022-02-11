@@ -27,7 +27,7 @@ public class Suma {
 			else {
 				System.out.println("No son positivos");
 			}
-			System.out.println("Esto lo pongo para no hacer try catch pero si modificar suma");
+			System.out.println("Esto lopongo para no hacer try catch pero si modificar suma");
 			
 			System.out.println("¿Quieres seguir sumando? s/n");
 			respuesta=teclado.next();
