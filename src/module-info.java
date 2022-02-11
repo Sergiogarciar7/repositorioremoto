@@ -1,0 +1,3 @@
+module Sumar {
+	exports suma;
+}
