@@ -12,7 +12,7 @@ import java.util.Scanner;
  */
 public class Circulo {
 
-    final static double PI=3.1416;
+    final static double PI=3.14165;
     /**
      * @param args the command line arguments
      */
@@ -30,6 +30,10 @@ public class Circulo {
 	System.out.printf("El valor del área es %f\n",area);
     }
    public static void longitud(double r) {
+        double area=(PI*r*r);
+	System.out.printf("El valor del área es %f\n",area);
+    }
+    public static void velocidad (double r) {
         double area=(PI*r*r);
 	System.out.printf("El valor del área es %f\n",area);
     }
