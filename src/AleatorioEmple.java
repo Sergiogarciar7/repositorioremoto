@@ -40,7 +40,7 @@ public class AleatorioEmple {
 			file.close(); 
 			System.out.println(" ------------------------------------------");
 		} else 
-			System.out.println(" ---------FICHERO VACÍO --------------------");
+			System.out.println(" ---------FICHERO VACÍO -------------------");
 	}// fin verporconsola
 
 	public static void crear() throws IOException {
